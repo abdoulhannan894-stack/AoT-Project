@@ -1,1 +1,6 @@
 
+name: AoT_Gear
+version: 1.0
+main: com.titan.Main
+api-version: '1.21'
+author: TitanDev
